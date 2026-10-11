@@ -68,6 +68,7 @@
 | [0118-pascals-triangle](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0120-triangle/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +102,7 @@
 | [0118-pascals-triangle](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0120-triangle/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
