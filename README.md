@@ -50,6 +50,7 @@
 | [0093-restore-ip-addresses](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0125-valid-palindrome](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@
 | [0016-3sum-closest](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0125-valid-palindrome](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
