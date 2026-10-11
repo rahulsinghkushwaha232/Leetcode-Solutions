@@ -37,6 +37,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0127-word-ladder/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,4 +246,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0127-word-ladder/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
