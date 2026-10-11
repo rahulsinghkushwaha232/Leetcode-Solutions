@@ -43,6 +43,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@
 | [0005-longest-palindromic-substring](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,4 +76,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 <!---LeetCode Topics End-->
