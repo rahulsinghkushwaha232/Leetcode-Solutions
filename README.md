@@ -66,6 +66,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@
 | [0097-interleaving-string](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
