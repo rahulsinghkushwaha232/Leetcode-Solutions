@@ -76,6 +76,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,6 +190,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0130-surrounded-regions](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +240,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0127-word-ladder](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0127-word-ladder/) | Hard |
+| [0130-surrounded-regions](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,4 +253,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0130-surrounded-regions](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 <!---LeetCode Topics End-->
