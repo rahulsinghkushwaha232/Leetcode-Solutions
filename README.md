@@ -47,6 +47,7 @@
 | [0020-valid-parentheses](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0093-restore-ip-addresses](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0097-interleaving-string/) | Medium |
+| [0115-distinct-subsequences](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0097-interleaving-string/) | Medium |
+| [0115-distinct-subsequences](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
