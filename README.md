@@ -110,6 +110,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0113-path-sum-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +141,7 @@
 | [0110-balanced-binary-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +154,7 @@
 | [0110-balanced-binary-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +176,7 @@
 | [0110-balanced-binary-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
