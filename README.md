@@ -75,6 +75,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
+| [0095-unique-binary-search-trees-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0095-unique-binary-search-trees-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,4 +118,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0095-unique-binary-search-trees-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 <!---LeetCode Topics End-->
