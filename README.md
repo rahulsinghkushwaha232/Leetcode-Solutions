@@ -36,6 +36,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0127-word-ladder](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0127-word-ladder/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@
 | [0097-interleaving-string](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0127-word-ladder](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0127-word-ladder/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,8 +235,13 @@
 | [0112-path-sum](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0127-word-ladder](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0127-word-ladder/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
