@@ -1,261 +1,72 @@
-# Leetcode-Solutions
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0002-add-two-numbers](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
-| [0021-merge-two-sorted-lists](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
-| [0092-reverse-linked-list-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
-| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
-| [0116-populating-next-right-pointers-in-each-node](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
-| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0002-add-two-numbers](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
-| [0007-reverse-integer](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0007-reverse-integer/) | Medium |
-| [0009-palindrome-number](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
-| [0012-integer-to-roman](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
-| [0013-roman-to-integer](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
-| [0096-unique-binary-search-trees](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
-## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0002-add-two-numbers](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
-| [0010-regular-expression-matching](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
-| [0021-merge-two-sorted-lists](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-| [0012-integer-to-roman](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
-| [0013-roman-to-integer](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
-| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
-| [0127-word-ladder](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0127-word-ladder/) | Hard |
-| [0128-longest-consecutive-sequence](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-| [0005-longest-palindromic-substring](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
-| [0006-zigzag-conversion](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
-| [0010-regular-expression-matching](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
-| [0012-integer-to-roman](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
-| [0013-roman-to-integer](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
-| [0020-valid-parentheses](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
-| [0093-restore-ip-addresses](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
-| [0097-interleaving-string](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0097-interleaving-string/) | Medium |
-| [0115-distinct-subsequences](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
-| [0125-valid-palindrome](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
-| [0127-word-ladder](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0127-word-ladder/) | Hard |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
-| [0011-container-with-most-water](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
-| [0015-3sum](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
-| [0016-3sum-closest](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0016-3sum-closest/) | Medium |
-| [0018-4sum](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
-| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
-| [0118-pascals-triangle](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
-| [0119-pascals-triangle-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
-| [0120-triangle](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0120-triangle/) | Medium |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
-| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
-| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
-| [0128-longest-consecutive-sequence](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
-| [0130-surrounded-regions](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
-## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
-| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
-| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0005-longest-palindromic-substring](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
-| [0011-container-with-most-water](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
-| [0015-3sum](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
-| [0016-3sum-closest](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0016-3sum-closest/) | Medium |
-| [0018-4sum](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
-| [0125-valid-palindrome](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0005-longest-palindromic-substring](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
-| [0010-regular-expression-matching](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
-| [0095-unique-binary-search-trees-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
-| [0096-unique-binary-search-trees](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
-| [0097-interleaving-string](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0097-interleaving-string/) | Medium |
-| [0115-distinct-subsequences](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
-| [0118-pascals-triangle](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
-| [0119-pascals-triangle-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
-| [0120-triangle](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0120-triangle/) | Medium |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
-| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
-| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
-| [0124-binary-tree-maximum-path-sum](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
-## Manacher
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0005-longest-palindromic-substring](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0011-container-with-most-water](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
-| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0015-3sum](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
-| [0016-3sum-closest](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0016-3sum-closest/) | Medium |
-| [0018-4sum](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
-## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
-| [0093-restore-ip-addresses](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
-| [0095-unique-binary-search-trees-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
-| [0113-path-sum-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0020-valid-parentheses](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
-| [0094-binary-tree-inorder-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
-## Bracket Sequences
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0020-valid-parentheses](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
-## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
-| [0095-unique-binary-search-trees-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
-| [0096-unique-binary-search-trees](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
-| [0098-validate-binary-search-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
-| [0099-recover-binary-search-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
-| [0100-same-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
-| [0101-symmetric-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
-| [0102-binary-tree-level-order-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
-| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
-| [0104-maximum-depth-of-binary-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
-| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
-| [0107-binary-tree-level-order-traversal-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
-| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
-| [0110-balanced-binary-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
-| [0111-minimum-depth-of-binary-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
-| [0112-path-sum](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
-| [0113-path-sum-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
-| [0116-populating-next-right-pointers-in-each-node](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
-| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
-| [0124-binary-tree-maximum-path-sum](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
-| [0098-validate-binary-search-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
-| [0099-recover-binary-search-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
-| [0100-same-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
-| [0101-symmetric-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
-| [0104-maximum-depth-of-binary-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
-| [0110-balanced-binary-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
-| [0111-minimum-depth-of-binary-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
-| [0112-path-sum](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
-| [0113-path-sum-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
-| [0116-populating-next-right-pointers-in-each-node](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
-| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
-| [0124-binary-tree-maximum-path-sum](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
-| [0130-surrounded-regions](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
-## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
-| [0095-unique-binary-search-trees-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
-| [0096-unique-binary-search-trees](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
-| [0098-validate-binary-search-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
-| [0099-recover-binary-search-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
-| [0100-same-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
-| [0101-symmetric-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
-| [0102-binary-tree-level-order-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
-| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
-| [0104-maximum-depth-of-binary-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
-| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
-| [0107-binary-tree-level-order-traversal-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
-| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
-| [0110-balanced-binary-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
-| [0111-minimum-depth-of-binary-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
-| [0112-path-sum](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
-| [0113-path-sum-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
-| [0116-populating-next-right-pointers-in-each-node](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
-| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
-| [0124-binary-tree-maximum-path-sum](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
-## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0095-unique-binary-search-trees-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
-| [0096-unique-binary-search-trees](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
-| [0098-validate-binary-search-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
-| [0099-recover-binary-search-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
-| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
-## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0100-same-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
-| [0101-symmetric-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
-| [0102-binary-tree-level-order-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
-| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
-| [0104-maximum-depth-of-binary-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
-| [0107-binary-tree-level-order-traversal-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
-| [0111-minimum-depth-of-binary-tree](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
-| [0112-path-sum](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
-| [0116-populating-next-right-pointers-in-each-node](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
-| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
-| [0127-word-ladder](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0127-word-ladder/) | Hard |
-| [0130-surrounded-regions](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
-## DP on Trees
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0124-binary-tree-maximum-path-sum](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
-## Bidirectional Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0127-word-ladder](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0127-word-ladder/) | Hard |
-## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0128-longest-consecutive-sequence](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
-| [0130-surrounded-regions](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0130-surrounded-regions](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
-<!---LeetCode Topics End-->
+<div align="center">
+
+# 🚀 LeetCode Journey of Rahul Singh Kushwaha 💻
+
+![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20Java%20%7C%20JavaScript%20%7C%20C++%20%7C%20HTML-informational?style=flat-square&logo=leetcode&color=brightgreen)
+![Goal](https://img.shields.io/badge/Goal-Solve%20DSA%20Daily-orange?style=flat-square&logo=target)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=30F7DB&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Welcome+to+my+LeetCode+Solutions+Repo!;Solving+DSA+daily+in+Python%2C+Java%2C+JavaScript+and+C%2B%2B)
+
+</div>
+
+---
+
+### 📌 About This Repository
+
+This repository contains the LeetCode problems I have solved, written in **Python**, **Java**, **JavaScript** and **C++**, and synced automatically to GitHub with LeetHub. I also build web projects with **HTML**, **CSS** and **JavaScript** (see my other repositories). This repo is part of my daily practice to improve problem-solving, master **DSA** and prepare for **tech interviews**.
+
+---
+
+> *"Slow progress is still progress. Solve one problem today, and one more tomorrow."* 🌱
+
+---
+
+### 🔍 Real-Time LeetCode Stats
+
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?ext=activity&theme=unicorn)
+
+</div>
+
+---
+
+### 📊 Language Usage
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsinghkushwaha232&layout=compact&theme=tokyonight&langs_count=6)
+
+</div>
+
+---
+
+### 🕓 Daily Problem Solving Streak
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=rahulsinghkushwaha232&theme=tokyonight_duo)
+
+</div>
+
+---
+
+### 🎯 My Goals
+
+- 🔥 Solve **at least 1 LeetCode problem every day**
+- 🌐 Master **Arrays, Strings, Linked Lists, Trees, Graphs, DP, Greedy and Backtracking**
+- 💼 Build strong **interview-level problem-solving intuition**
+
+---
+
+### 🙌 Final Word
+
+This repository is more than just code. It is a public commitment to learning and consistency.
+
+---
+
+### 🔗 Connect with Me
+
+- 📘 [LeetCode Profile](https://leetcode.com/u/rahulsinghkushwaha231/)
+- 💼 [LinkedIn](linkedin.com/in/rahul-singh-kushwaha10)
+- 🐙 [GitHub](https://github.com/rahulsinghkushwaha232)
