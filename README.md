@@ -40,6 +40,7 @@
 | [0013-roman-to-integer](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0093-restore-ip-addresses](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
