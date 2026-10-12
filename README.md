@@ -102,6 +102,7 @@ This repository is more than just code. It is a public commitment to learning an
 | [0141-linked-list-cycle](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
+| [0149-max-points-on-a-line](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +126,7 @@ This repository is more than just code. It is a public commitment to learning an
 | [0137-single-number-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0139-word-break](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0140-word-break-ii/) | Hard |
+| [0149-max-points-on-a-line](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,4 +214,20 @@ This repository is more than just code. It is a public commitment to learning an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 <!---LeetCode Topics End-->
