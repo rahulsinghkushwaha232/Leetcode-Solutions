@@ -144,6 +144,7 @@ This repository is more than just code. It is a public commitment to learning an
 | [0143-reorder-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0147-insertion-sort-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0147-insertion-sort-list/) | Medium |
+| [0148-sort-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +165,7 @@ This repository is more than just code. It is a public commitment to learning an
 | [0141-linked-list-cycle](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,4 +203,13 @@ This repository is more than just code. It is a public commitment to learning an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0147-insertion-sort-list/) | Medium |
+| [0148-sort-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
