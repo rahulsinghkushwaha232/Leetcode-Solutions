@@ -99,6 +99,7 @@ This repository is more than just code. It is a public commitment to learning an
 | [0138-copy-list-with-random-pointer](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0140-word-break-ii/) | Hard |
+| [0141-linked-list-cycle](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +135,7 @@ This repository is more than just code. It is a public commitment to learning an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0141-linked-list-cycle](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,4 +150,12 @@ This repository is more than just code. It is a public commitment to learning an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
