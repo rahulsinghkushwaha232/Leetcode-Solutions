@@ -108,9 +108,14 @@ This repository is more than just code. It is a public commitment to learning an
 | ------- | ------- |
 | [0134-gas-station](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0135-candy/) | Hard |
+| [0136-single-number](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0134-gas-station](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0135-candy/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
