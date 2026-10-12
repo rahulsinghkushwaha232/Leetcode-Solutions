@@ -70,3 +70,19 @@ This repository is more than just code. It is a public commitment to learning an
 - 📘 [LeetCode Profile](https://leetcode.com/u/rahulsinghkushwaha231/)
 - 💼 [LinkedIn](linkedin.com/in/rahul-singh-kushwaha10)
 - 🐙 [GitHub](https://github.com/rahulsinghkushwaha232)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+<!---LeetCode Topics End-->
