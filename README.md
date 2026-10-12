@@ -91,6 +91,7 @@ This repository is more than just code. It is a public commitment to learning an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0133-clone-graph/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,4 +121,8 @@ This repository is more than just code. It is a public commitment to learning an
 | ------- | ------- |
 | [0136-single-number](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0137-single-number-ii/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 <!---LeetCode Topics End-->
