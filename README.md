@@ -87,4 +87,20 @@ This repository is more than just code. It is a public commitment to learning an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0133-clone-graph/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0133-clone-graph/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0133-clone-graph/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0133-clone-graph/) | Medium |
 <!---LeetCode Topics End-->
