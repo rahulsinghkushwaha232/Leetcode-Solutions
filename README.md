@@ -79,22 +79,26 @@ This repository is more than just code. It is a public commitment to learning an
 | [0131-palindrome-partitioning](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0140-word-break-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +119,7 @@ This repository is more than just code. It is a public commitment to learning an
 | [0136-single-number](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0139-word-break](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,10 +138,12 @@ This repository is more than just code. It is a public commitment to learning an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 ## Brute-Force Search
 | Problem Name | Difficulty |
 | ------- | ------- |
