@@ -107,8 +107,10 @@ This repository is more than just code. It is a public commitment to learning an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0134-gas-station](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0135-candy/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0134-gas-station](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0135-candy/) | Hard |
 <!---LeetCode Topics End-->
