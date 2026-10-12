@@ -77,10 +77,12 @@ This repository is more than just code. It is a public commitment to learning an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0132-palindrome-partitioning-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0132-palindrome-partitioning-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
