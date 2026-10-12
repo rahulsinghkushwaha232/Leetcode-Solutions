@@ -101,6 +101,7 @@ This repository is more than just code. It is a public commitment to learning an
 | [0140-word-break-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0141-linked-list-cycle](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0146-lru-cache](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +142,7 @@ This repository is more than just code. It is a public commitment to learning an
 | [0141-linked-list-cycle](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0143-reorder-list/) | Medium |
+| [0146-lru-cache](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,4 +188,12 @@ This repository is more than just code. It is a public commitment to learning an
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
