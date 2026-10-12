@@ -138,6 +138,7 @@ This repository is more than just code. It is a public commitment to learning an
 | [0138-copy-list-with-random-pointer](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0143-reorder-list/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,9 +158,18 @@ This repository is more than just code. It is a public commitment to learning an
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0143-reorder-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0143-reorder-list/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0143-reorder-list/) | Medium |
 <!---LeetCode Topics End-->
