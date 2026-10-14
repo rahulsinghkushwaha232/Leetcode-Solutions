@@ -81,6 +81,7 @@ This repository is more than just code. It is a public commitment to learning an
 | [0139-word-break](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@ This repository is more than just code. It is a public commitment to learning an
 | [0142-linked-list-cycle-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0187-repeated-dna-sequences](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +144,7 @@ This repository is more than just code. It is a public commitment to learning an
 | ------- | ------- |
 | [0136-single-number](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0137-single-number-ii/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,4 +244,24 @@ This repository is more than just code. It is a public commitment to learning an
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
