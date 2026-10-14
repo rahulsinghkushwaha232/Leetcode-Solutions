@@ -136,6 +136,7 @@ This repository is more than just code. It is a public commitment to learning an
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0189-rotate-array](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +180,7 @@ This repository is more than just code. It is a public commitment to learning an
 | [0143-reorder-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0189-rotate-array](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +231,7 @@ This repository is more than just code. It is a public commitment to learning an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0189-rotate-array](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
