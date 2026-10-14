@@ -277,4 +277,5 @@ This repository is more than just code. It is a public commitment to learning an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0175-combine-two-tables/) | Easy |
+| [0176-second-highest-salary](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
