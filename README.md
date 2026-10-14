@@ -88,6 +88,7 @@ This repository is more than just code. It is a public commitment to learning an
 | [0132-palindrome-partitioning-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0140-word-break-ii/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +129,7 @@ This repository is more than just code. It is a public commitment to learning an
 | [0139-word-break](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0149-max-points-on-a-line](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
