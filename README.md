@@ -148,6 +148,7 @@ This repository is more than just code. It is a public commitment to learning an
 | [0136-single-number](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0190-reverse-bits](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +224,7 @@ This repository is more than just code. It is a public commitment to learning an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
+| [0190-reverse-bits](https://github.com/rahulsinghkushwaha232/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
